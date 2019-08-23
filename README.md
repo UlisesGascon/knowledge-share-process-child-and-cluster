@@ -72,7 +72,7 @@ python3 exec/error.py 2> logs/all_stderr.log 1>&2 # Guardar el error (redirect d
 
 ### Live Coding (T1C5) | Child processes con Nodejs y Firebase
 
-[![Link a mi video de Youtube](https://www.youtube.com/watch?v=2n5_zYdVypc)](https://www.youtube.com/watch?v=2n5_zYdVypc&feature=youtu.be)
+[![Link a mi video de Youtube](https://i.ytimg.com/vi/2n5_zYdVypc/maxresdefault.jpg)](https://www.youtube.com/watch?v=2n5_zYdVypc&feature=youtu.be)
 
 ### Gestion de errores
 
